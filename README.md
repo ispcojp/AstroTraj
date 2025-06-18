@@ -163,6 +163,7 @@ Issue投稿：https://github.com/your-org/orbital-ddp/issues
 
 ## 議事
 
+```text
 案1 => これをgithub pagesで公開
 --> 社内承認に出せるくらいのレベルまで行きたい。
     => step 0. github repository作成(DDP web用)/権限設定 
@@ -180,3 +181,4 @@ Issue投稿：https://github.com/your-org/orbital-ddp/issues
         - 6/23週
     => step 3. 公開社内承認review KDS旗振り 
         - 6/30週
+```
