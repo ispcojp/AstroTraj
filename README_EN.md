@@ -72,8 +72,17 @@
 *Note: These plans are subject to change.*
 
 ## Roadmap
-- T.B.D.
 
+## Future Roadmap
+
+| Phase | Planned Content | Timeline |
+|-------|------------------|----------|
+| Cloud Version Trial Release | Free release with limited time/features (at ISTS) | Q3 2025 |
+| Cloud Version User Feedback Collection & Response | Feature improvements/additions based on trial feedback | Q4 2025 |
+| Cloud Version Official Release | Login feature, pricing introduced (with free tier), etc. | Q1 2026 |
+| Local PC Installable Version Trial Release | Limited feature release (details T.B.D.) | Q2 2026 |
+| Local PC Installable Version User Feedback Collection & Response | Feature improvements/additions based on trial feedback | Q3 2026 |
+| Local PC Installable Version Official Release | Released as OSS on GitHub (details T.B.D.) | Q4 2026 |
 
 *Note: These plans are subject to change.*
 
